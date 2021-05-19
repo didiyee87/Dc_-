@@ -1,4 +1,16 @@
 {
     "window.autoDetectColorScheme": true,
     "python.pythonPath": "C:\\Users\\didiq\\AppData\\Local\\Programs\\Python\\Python39\\python.exe"
+
+
+
+
+    //Power mode
+    "powermode.enabled": true
+
+
+    //indenticator 
+    "indenticator.hover.highlight":true.
+    "indenticator.inner.color.dark":"#FFF000".
+
 }
